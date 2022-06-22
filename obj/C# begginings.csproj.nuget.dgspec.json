@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\borge\\OneDrive\\Bureau\\C# begginings\\C# begginings.csproj": {}
+    "C:\\Users\\borge\\OneDrive\\Bureau\\C# begginings\\CS-first-project\\C# begginings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\borge\\OneDrive\\Bureau\\C# begginings\\C# begginings.csproj": {
+    "C:\\Users\\borge\\OneDrive\\Bureau\\C# begginings\\CS-first-project\\C# begginings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\borge\\OneDrive\\Bureau\\C# begginings\\C# begginings.csproj",
+        "projectUniqueName": "C:\\Users\\borge\\OneDrive\\Bureau\\C# begginings\\CS-first-project\\C# begginings.csproj",
         "projectName": "C# begginings",
-        "projectPath": "C:\\Users\\borge\\OneDrive\\Bureau\\C# begginings\\C# begginings.csproj",
+        "projectPath": "C:\\Users\\borge\\OneDrive\\Bureau\\C# begginings\\CS-first-project\\C# begginings.csproj",
         "packagesPath": "C:\\Users\\borge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\borge\\OneDrive\\Bureau\\C# begginings\\obj\\",
+        "outputPath": "C:\\Users\\borge\\OneDrive\\Bureau\\C# begginings\\CS-first-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\borge\\AppData\\Roaming\\NuGet\\NuGet.Config",

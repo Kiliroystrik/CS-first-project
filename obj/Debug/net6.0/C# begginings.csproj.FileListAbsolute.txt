@@ -1,0 +1,15 @@
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\bin\Debug\net6.0\C# begginings.exe
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\bin\Debug\net6.0\C# begginings.deps.json
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\bin\Debug\net6.0\C# begginings.runtimeconfig.json
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\bin\Debug\net6.0\C# begginings.dll
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\bin\Debug\net6.0\C# begginings.pdb
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\obj\Debug\net6.0\C# begginings.csproj.AssemblyReference.cache
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\obj\Debug\net6.0\C# begginings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\obj\Debug\net6.0\C# begginings.AssemblyInfoInputs.cache
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\obj\Debug\net6.0\C# begginings.AssemblyInfo.cs
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\obj\Debug\net6.0\C# begginings.csproj.CoreCompileInputs.cache
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\obj\Debug\net6.0\C# begginings.dll
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\obj\Debug\net6.0\refint\C# begginings.dll
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\obj\Debug\net6.0\C# begginings.pdb
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\obj\Debug\net6.0\C# begginings.genruntimeconfig.cache
+C:\Users\borge\OneDrive\Bureau\C# begginings\CS-first-project\obj\Debug\net6.0\ref\C# begginings.dll
